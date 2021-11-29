@@ -1,15 +1,16 @@
-# Ning-Xi-resume
-My personal resume
+# Ning Xi
+Ph.D physics student in the area condensed matter theory at Renmin University
 
-# 联系方式
 
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+I am seeking a postdoc position in condensed matter theory, quantum computing, or other relevant fields.
+# Contact me
 
-- 手机：186.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
-- Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
-- QQ/微信号：qing_geee（提供一个通过网络可以联系到你的方式）
 
-# 个人信息
+- Phone:13313323073
+- Emai: xining@ruc.edu.cn
+- Department of Physics, Renmin University, Beijing, China
+
+# Research interests \& skills
 
  - 沉默王二/男/1989 
  - 专科/家里蹲大学
